@@ -1,0 +1,17 @@
+body {
+  color: #696969;
+}
+
+#MyHeader {
+  background-color: #FFE4B5;
+  color: #191970;
+  text-align: center;
+}
+#Header {
+  color: gray;
+}
+.biography {
+  border: 10px;
+  background-color: #FFFAF0;
+  text-align: center;
+}
